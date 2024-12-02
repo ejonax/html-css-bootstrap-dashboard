@@ -1,3 +1,3 @@
-** se sei alla home ( index.html ) e click soppra Storico Prestiti ti manda alla nuova pagina della forma con bootstrap **
-** se sei alla pagine della form ( form.html ) e click soppra Catalogo Libri ti manda alla nuova iniziale ( home.html) **
+1. dalla index.html passi alla form.html click-ando  sopra "Storico Prestiti" dalla nav bar.
+2. dalla form.html passi alla index.html click-ando sopra "Catalogo Libri" dalla nav bar. 
 
